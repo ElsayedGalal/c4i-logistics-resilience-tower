@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "date": "2019-05-12",
+    "title": "Fujairah Tanker Sabotage",
+    "chokepoint": "Strait of Hormuz",
+    "severity": "High",
+    "category": "Security",
+    "description": "Four commercial oil tankers sabotaged off the coast of Fujairah near Strait of Hormuz.",
+    "lat": 26.56,
+    "lng": 56.25
+  },
+  {
+    "id": 2,
+    "date": "2019-06-13",
+    "title": "Gulf of Oman Tanker Attacks",
+    "chokepoint": "Strait of Hormuz",
+    "severity": "High",
+    "category": "Security",
+    "description": "Attacks on Front Altair and Kokuka Courageous tankers in Gulf of Oman; insurance premiums spike.",
+    "lat": 26.56,
+    "lng": 56.25
+  },
+  {
+    "id": 3,
+    "date": "2019-07-19",
+    "title": "Stena Impero Seizure",
+    "chokepoint": "Strait of Hormuz",
+    "severity": "Critical",
+    "category": "Security",
+    "description": "British-flagged tanker Stena Impero seized by IRGC in the Strait of Hormuz.",
+    "lat": 26.56,
+    "lng": 56.25
+  },
+  {
+    "id": 4,
+    "date": "2020-01-08",
+    "title": "US-Iran Military Escalation",
+    "chokepoint": "Strait of Hormuz",
+    "severity": "High",
+    "category": "Military",
+    "description": "Regional missile strikes following Soleimani killing; maritime and aviation alert levels elevated.",
+    "lat": 26.56,
+    "lng": 56.25
+  },
+  {
+    "id": 5,
+    "date": "2020-03-11",
+    "title": "WHO Declares COVID-19 Pandemic",
+    "chokepoint": "All Global Chokepoints",
+    "severity": "Critical",
+    "category": "Global Disruption",
+    "description": "Global lockdowns trigger blank sailings, trade drop, followed by extreme port congestion and equipment shortages.",
+    "lat": 25.0,
+    "lng": 45.0
+  },
+  {
+    "id": 6,
+    "date": "2021-03-23",
+    "title": "Ever Given Suez Canal Grounding",
+    "chokepoint": "Suez Canal",
+    "severity": "Critical",
+    "category": "Operational",
+    "description": "Ultra Large Container Vessel Ever Given blocks Suez Canal for 6 days, trapping over 400 ships.",
+    "lat": 30.7,
+    "lng": 32.34
+  },
+  {
+    "id": 7,
+    "date": "2022-02-24",
+    "title": "Outbreak of Russia-Ukraine War",
+    "chokepoint": "Global Energy / Aviation",
+    "severity": "Critical",
+    "category": "Geopolitical / War",
+    "description": "Black Sea blockades, European airspace closures, sanctions and global rerouting of oil and grain flows.",
+    "lat": 48.0,
+    "lng": 35.0
+  },
+  {
+    "id": 8,
+    "date": "2023-07-25",
+    "title": "Panama Canal Severe Drought Restrictions",
+    "chokepoint": "Global Trade / Suez",
+    "severity": "Medium",
+    "category": "Environmental / Operational",
+    "description": "Historic drought forces Panama Canal authority to slash daily transits, shifting some US-Asia trade to Suez.",
+    "lat": 30.7,
+    "lng": 32.34
+  },
+  {
+    "id": 9,
+    "date": "2023-10-07",
+    "title": "Outbreak of Gaza War",
+    "chokepoint": "Eastern Mediterranean / Middle East",
+    "severity": "Critical",
+    "category": "Geopolitical / War",
+    "description": "Regional escalation begins, sparking heightened geopolitical tensions across Middle East transport corridors.",
+    "lat": 32.0,
+    "lng": 35.0
+  },
+  {
+    "id": 10,
+    "date": "2023-11-19",
+    "title": "Galaxy Leader Hijacking",
+    "chokepoint": "Bab el-Mandeb",
+    "severity": "High",
+    "category": "Security",
+    "description": "First commercial vessel seized in southern Red Sea, triggering direct maritime threat alert.",
+    "lat": 12.58,
+    "lng": 43.33
+  },
+  {
+    "id": 11,
+    "date": "2023-12-15",
+    "title": "Major Liners Halt Red Sea Transits",
+    "chokepoint": "Suez Canal & Bab el-Mandeb",
+    "severity": "Critical",
+    "category": "Operational",
+    "description": "Maersk, MSC, CMA CGM and Hapag-Lloyd officially divert container fleets to Cape of Good Hope.",
+    "lat": 21.64,
+    "lng": 38.0
+  },
+  {
+    "id": 12,
+    "date": "2023-12-18",
+    "title": "Operation Prosperity Guardian",
+    "chokepoint": "Bab el-Mandeb",
+    "severity": "Medium",
+    "category": "Diplomatic / Coalition",
+    "description": "Multinational maritime security coalition deployed to protect commercial shipping.",
+    "lat": 12.58,
+    "lng": 43.33
+  },
+  {
+    "id": 13,
+    "date": "2024-01-12",
+    "title": "US-UK Strikes on Military Sites in Yemen",
+    "chokepoint": "Bab el-Mandeb",
+    "severity": "High",
+    "category": "Military",
+    "description": "Targeted airstrikes commence; maritime war risk premiums surge above 1% of vessel value.",
+    "lat": 12.58,
+    "lng": 43.33
+  },
+  {
+    "id": 14,
+    "date": "2024-04-13",
+    "title": "MSC Aries Seizure & Iran-Israel Strikes",
+    "chokepoint": "Strait of Hormuz",
+    "severity": "Critical",
+    "category": "Security / Military",
+    "description": "IRGC boards MSC Aries container ship near Hormuz; unprecedented direct drone/missile engagement.",
+    "lat": 26.56,
+    "lng": 56.25
+  },
+  {
+    "id": 15,
+    "date": "2024-07-20",
+    "title": "Port of Hodeidah Infrastructure Strike",
+    "chokepoint": "Bab el-Mandeb",
+    "severity": "High",
+    "category": "Military",
+    "description": "Direct airstrikes on fuel and port storage facilities in Hodeidah reinforce long-term diversion.",
+    "lat": 12.58,
+    "lng": 43.33
+  },
+  {
+    "id": 16,
+    "date": "2024-10-01",
+    "title": "Regional Missile Exchanges & Airspace Alerts",
+    "chokepoint": "All Regional Corridors",
+    "severity": "Critical",
+    "category": "Military",
+    "description": "Massive ballistic missile barrages and airspace closures force widespread commercial rerouting.",
+    "lat": 24.0,
+    "lng": 46.0
+  },
+  {
+    "id": 17,
+    "date": "2025-01-15",
+    "title": "Institutionalization of Cape Route (\"New Normal\")",
+    "chokepoint": "Cape of Good Hope & Suez",
+    "severity": "Medium",
+    "category": "Operational",
+    "description": "Global alliances (Gemini, Ocean Alliance) solidify long-term Cape of Good Hope network schedules.",
+    "lat": -34.35,
+    "lng": 18.49
+  },
+  {
+    "id": 18,
+    "date": "2026-04-10",
+    "title": "Hormuz Tanker Escort Protocol Alerts",
+    "chokepoint": "Strait of Hormuz",
+    "severity": "High",
+    "category": "Security",
+    "description": "Heightened maritime surveillance and naval patrols instituted across Gulf energy transit lanes.",
+    "lat": 26.56,
+    "lng": 56.25
+  }
+]

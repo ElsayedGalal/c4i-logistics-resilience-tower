@@ -1,0 +1,273 @@
+{
+  "corridors": [
+    {
+      "Corridor_ID": 1,
+      "Corridor_Name": "Suez Traditional Maritime",
+      "Transport_Mode": "Sea",
+      "Origin_Hub": "Singapore",
+      "Destination_Hub": "Rotterdam",
+      "Pre_Crisis_Transit_Days_2019_2023": 24,
+      "Crisis_Transit_Days_2024_2026": 24,
+      "Pre_Crisis_Cost_USD_per_TEU": 1400,
+      "Crisis_Cost_USD_per_TEU": 3200,
+      "CO2_Grams_per_TEU_KM": 95,
+      "Pre_Crisis_Reliability_Pct": 88,
+      "Crisis_Reliability_Pct": 35,
+      "Strategic_Status": "Disrupted / High Risk"
+    },
+    {
+      "Corridor_ID": 2,
+      "Corridor_Name": "Cape of Good Hope Diversion",
+      "Transport_Mode": "Sea",
+      "Origin_Hub": "Singapore",
+      "Destination_Hub": "Rotterdam",
+      "Pre_Crisis_Transit_Days_2019_2023": 36,
+      "Crisis_Transit_Days_2024_2026": 37,
+      "Pre_Crisis_Cost_USD_per_TEU": 1600,
+      "Crisis_Cost_USD_per_TEU": 3800,
+      "CO2_Grams_per_TEU_KM": 140,
+      "Pre_Crisis_Reliability_Pct": 75,
+      "Crisis_Reliability_Pct": 92,
+      "Strategic_Status": "Active Primary Maritime"
+    },
+    {
+      "Corridor_ID": 3,
+      "Corridor_Name": "Arabian Land Bridge (Road)",
+      "Transport_Mode": "Multimodal (Sea-Road)",
+      "Origin_Hub": "Jebel Ali / Dammam",
+      "Destination_Hub": "Port Said / Jordan / Haifa",
+      "Pre_Crisis_Transit_Days_2019_2023": 4,
+      "Crisis_Transit_Days_2024_2026": 4,
+      "Pre_Crisis_Cost_USD_per_TEU": 2600,
+      "Crisis_Cost_USD_per_TEU": 3100,
+      "CO2_Grams_per_TEU_KM": 180,
+      "Pre_Crisis_Reliability_Pct": 80,
+      "Crisis_Reliability_Pct": 95,
+      "Strategic_Status": "Strategic Bypass Bypass"
+    },
+    {
+      "Corridor_ID": 4,
+      "Corridor_Name": "Arabian Land Bridge (Rail Target)",
+      "Transport_Mode": "Multimodal (Sea-Rail)",
+      "Origin_Hub": "Dammam",
+      "Destination_Hub": "Jeddah / Yanbu",
+      "Pre_Crisis_Transit_Days_2019_2023": 2,
+      "Crisis_Transit_Days_2024_2026": 2,
+      "Pre_Crisis_Cost_USD_per_TEU": 2000,
+      "Crisis_Cost_USD_per_TEU": 2200,
+      "CO2_Grams_per_TEU_KM": 110,
+      "Pre_Crisis_Reliability_Pct": 90,
+      "Crisis_Reliability_Pct": 98,
+      "Strategic_Status": "Future Vision 2030 Flagship"
+    },
+    {
+      "Corridor_ID": 5,
+      "Corridor_Name": "Sea-Air Gulf Hub Express",
+      "Transport_Mode": "Multimodal (Sea-Air)",
+      "Origin_Hub": "Dubai / Riyadh",
+      "Destination_Hub": "Frankfurt / Amsterdam",
+      "Pre_Crisis_Transit_Days_2019_2023": 3,
+      "Crisis_Transit_Days_2024_2026": 3,
+      "Pre_Crisis_Cost_USD_per_TEU": 4800,
+      "Crisis_Cost_USD_per_TEU": 6800,
+      "CO2_Grams_per_TEU_KM": 450,
+      "Pre_Crisis_Reliability_Pct": 96,
+      "Crisis_Reliability_Pct": 99,
+      "Strategic_Status": "Premium Urgent Cargo"
+    }
+  ],
+  "yearly_history": [
+    {
+      "Year": 2019,
+      "Corridor_Name": "Suez Traditional Maritime",
+      "Avg_Cost_Per_TEU_USD": 1350,
+      "Avg_Transit_Days": 24
+    },
+    {
+      "Year": 2019,
+      "Corridor_Name": "Cape of Good Hope Diversion",
+      "Avg_Cost_Per_TEU_USD": 1550,
+      "Avg_Transit_Days": 36
+    },
+    {
+      "Year": 2019,
+      "Corridor_Name": "Arabian Land Bridge (Road)",
+      "Avg_Cost_Per_TEU_USD": 2500,
+      "Avg_Transit_Days": 4
+    },
+    {
+      "Year": 2019,
+      "Corridor_Name": "Sea-Air Gulf Hub Express",
+      "Avg_Cost_Per_TEU_USD": 4500,
+      "Avg_Transit_Days": 3
+    },
+    {
+      "Year": 2020,
+      "Corridor_Name": "Suez Traditional Maritime",
+      "Avg_Cost_Per_TEU_USD": 1800,
+      "Avg_Transit_Days": 25
+    },
+    {
+      "Year": 2020,
+      "Corridor_Name": "Cape of Good Hope Diversion",
+      "Avg_Cost_Per_TEU_USD": 2000,
+      "Avg_Transit_Days": 36
+    },
+    {
+      "Year": 2020,
+      "Corridor_Name": "Arabian Land Bridge (Road)",
+      "Avg_Cost_Per_TEU_USD": 2600,
+      "Avg_Transit_Days": 5
+    },
+    {
+      "Year": 2020,
+      "Corridor_Name": "Sea-Air Gulf Hub Express",
+      "Avg_Cost_Per_TEU_USD": 5800,
+      "Avg_Transit_Days": 4
+    },
+    {
+      "Year": 2021,
+      "Corridor_Name": "Suez Traditional Maritime",
+      "Avg_Cost_Per_TEU_USD": 7500,
+      "Avg_Transit_Days": 31
+    },
+    {
+      "Year": 2021,
+      "Corridor_Name": "Cape of Good Hope Diversion",
+      "Avg_Cost_Per_TEU_USD": 8200,
+      "Avg_Transit_Days": 38
+    },
+    {
+      "Year": 2021,
+      "Corridor_Name": "Arabian Land Bridge (Road)",
+      "Avg_Cost_Per_TEU_USD": 3400,
+      "Avg_Transit_Days": 4
+    },
+    {
+      "Year": 2021,
+      "Corridor_Name": "Sea-Air Gulf Hub Express",
+      "Avg_Cost_Per_TEU_USD": 9500,
+      "Avg_Transit_Days": 3
+    },
+    {
+      "Year": 2022,
+      "Corridor_Name": "Suez Traditional Maritime",
+      "Avg_Cost_Per_TEU_USD": 5200,
+      "Avg_Transit_Days": 26
+    },
+    {
+      "Year": 2022,
+      "Corridor_Name": "Cape of Good Hope Diversion",
+      "Avg_Cost_Per_TEU_USD": 5800,
+      "Avg_Transit_Days": 36
+    },
+    {
+      "Year": 2022,
+      "Corridor_Name": "Arabian Land Bridge (Road)",
+      "Avg_Cost_Per_TEU_USD": 3200,
+      "Avg_Transit_Days": 4
+    },
+    {
+      "Year": 2022,
+      "Corridor_Name": "Sea-Air Gulf Hub Express",
+      "Avg_Cost_Per_TEU_USD": 7800,
+      "Avg_Transit_Days": 3
+    },
+    {
+      "Year": 2023,
+      "Corridor_Name": "Suez Traditional Maritime",
+      "Avg_Cost_Per_TEU_USD": 1400,
+      "Avg_Transit_Days": 24
+    },
+    {
+      "Year": 2023,
+      "Corridor_Name": "Cape of Good Hope Diversion",
+      "Avg_Cost_Per_TEU_USD": 1600,
+      "Avg_Transit_Days": 36
+    },
+    {
+      "Year": 2023,
+      "Corridor_Name": "Arabian Land Bridge (Road)",
+      "Avg_Cost_Per_TEU_USD": 2600,
+      "Avg_Transit_Days": 4
+    },
+    {
+      "Year": 2023,
+      "Corridor_Name": "Sea-Air Gulf Hub Express",
+      "Avg_Cost_Per_TEU_USD": 4800,
+      "Avg_Transit_Days": 3
+    },
+    {
+      "Year": 2024,
+      "Corridor_Name": "Suez Traditional Maritime",
+      "Avg_Cost_Per_TEU_USD": 3400,
+      "Avg_Transit_Days": 25
+    },
+    {
+      "Year": 2024,
+      "Corridor_Name": "Cape of Good Hope Diversion",
+      "Avg_Cost_Per_TEU_USD": 4100,
+      "Avg_Transit_Days": 37
+    },
+    {
+      "Year": 2024,
+      "Corridor_Name": "Arabian Land Bridge (Road)",
+      "Avg_Cost_Per_TEU_USD": 3100,
+      "Avg_Transit_Days": 4
+    },
+    {
+      "Year": 2024,
+      "Corridor_Name": "Sea-Air Gulf Hub Express",
+      "Avg_Cost_Per_TEU_USD": 6800,
+      "Avg_Transit_Days": 3
+    },
+    {
+      "Year": 2025,
+      "Corridor_Name": "Suez Traditional Maritime",
+      "Avg_Cost_Per_TEU_USD": 3200,
+      "Avg_Transit_Days": 24
+    },
+    {
+      "Year": 2025,
+      "Corridor_Name": "Cape of Good Hope Diversion",
+      "Avg_Cost_Per_TEU_USD": 3800,
+      "Avg_Transit_Days": 36
+    },
+    {
+      "Year": 2025,
+      "Corridor_Name": "Arabian Land Bridge (Road)",
+      "Avg_Cost_Per_TEU_USD": 3150,
+      "Avg_Transit_Days": 4
+    },
+    {
+      "Year": 2025,
+      "Corridor_Name": "Sea-Air Gulf Hub Express",
+      "Avg_Cost_Per_TEU_USD": 6600,
+      "Avg_Transit_Days": 3
+    },
+    {
+      "Year": 2026,
+      "Corridor_Name": "Suez Traditional Maritime",
+      "Avg_Cost_Per_TEU_USD": 3100,
+      "Avg_Transit_Days": 24
+    },
+    {
+      "Year": 2026,
+      "Corridor_Name": "Cape of Good Hope Diversion",
+      "Avg_Cost_Per_TEU_USD": 3750,
+      "Avg_Transit_Days": 36
+    },
+    {
+      "Year": 2026,
+      "Corridor_Name": "Arabian Land Bridge (Road)",
+      "Avg_Cost_Per_TEU_USD": 3100,
+      "Avg_Transit_Days": 4
+    },
+    {
+      "Year": 2026,
+      "Corridor_Name": "Sea-Air Gulf Hub Express",
+      "Avg_Cost_Per_TEU_USD": 6500,
+      "Avg_Transit_Days": 3
+    }
+  ]
+}

@@ -1,0 +1,2037 @@
+[
+  {
+    "date": "2019-01-04",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1483
+  },
+  {
+    "date": "2019-01-11",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1391
+  },
+  {
+    "date": "2019-01-18",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1483
+  },
+  {
+    "date": "2019-01-25",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1441
+  },
+  {
+    "date": "2019-02-01",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1523
+  },
+  {
+    "date": "2019-02-08",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1521
+  },
+  {
+    "date": "2019-02-15",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1518
+  },
+  {
+    "date": "2019-02-22",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1504
+  },
+  {
+    "date": "2019-03-01",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1397
+  },
+  {
+    "date": "2019-03-08",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1389
+  },
+  {
+    "date": "2019-03-15",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1522
+  },
+  {
+    "date": "2019-03-22",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1527
+  },
+  {
+    "date": "2019-03-29",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1488
+  },
+  {
+    "date": "2019-04-05",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1432
+  },
+  {
+    "date": "2019-04-12",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1394
+  },
+  {
+    "date": "2019-04-19",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1435
+  },
+  {
+    "date": "2019-04-26",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1396
+  },
+  {
+    "date": "2019-05-03",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1376
+  },
+  {
+    "date": "2019-05-10",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1490
+  },
+  {
+    "date": "2019-05-17",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1515
+  },
+  {
+    "date": "2019-05-24",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1480
+  },
+  {
+    "date": "2019-05-31",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1494
+  },
+  {
+    "date": "2019-06-07",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1477
+  },
+  {
+    "date": "2019-06-14",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1439
+  },
+  {
+    "date": "2019-06-21",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1414
+  },
+  {
+    "date": "2019-06-28",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1427
+  },
+  {
+    "date": "2019-07-05",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1486
+  },
+  {
+    "date": "2019-07-12",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1401
+  },
+  {
+    "date": "2019-07-19",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1501
+  },
+  {
+    "date": "2019-07-26",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1394
+  },
+  {
+    "date": "2019-08-02",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1426
+  },
+  {
+    "date": "2019-08-09",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1409
+  },
+  {
+    "date": "2019-08-16",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1426
+  },
+  {
+    "date": "2019-08-23",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1457
+  },
+  {
+    "date": "2019-08-30",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1493
+  },
+  {
+    "date": "2019-09-06",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1503
+  },
+  {
+    "date": "2019-09-13",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1479
+  },
+  {
+    "date": "2019-09-20",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1444
+  },
+  {
+    "date": "2019-09-27",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1480
+  },
+  {
+    "date": "2019-10-04",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1503
+  },
+  {
+    "date": "2019-10-11",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1448
+  },
+  {
+    "date": "2019-10-18",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1512
+  },
+  {
+    "date": "2019-10-25",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1384
+  },
+  {
+    "date": "2019-11-01",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1411
+  },
+  {
+    "date": "2019-11-08",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1501
+  },
+  {
+    "date": "2019-11-15",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1520
+  },
+  {
+    "date": "2019-11-22",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1469
+  },
+  {
+    "date": "2019-11-29",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1374
+  },
+  {
+    "date": "2019-12-06",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1505
+  },
+  {
+    "date": "2019-12-13",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1512
+  },
+  {
+    "date": "2019-12-20",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1510
+  },
+  {
+    "date": "2019-12-27",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1490
+  },
+  {
+    "date": "2020-01-03",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1522
+  },
+  {
+    "date": "2020-01-10",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1499
+  },
+  {
+    "date": "2020-01-17",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1492
+  },
+  {
+    "date": "2020-01-24",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1380
+  },
+  {
+    "date": "2020-01-31",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1445
+  },
+  {
+    "date": "2020-02-07",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1407
+  },
+  {
+    "date": "2020-02-14",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1442
+  },
+  {
+    "date": "2020-02-21",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1504
+  },
+  {
+    "date": "2020-02-28",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1446
+  },
+  {
+    "date": "2020-03-06",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1488
+  },
+  {
+    "date": "2020-03-13",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1388
+  },
+  {
+    "date": "2020-03-20",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1523
+  },
+  {
+    "date": "2020-03-27",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1450
+  },
+  {
+    "date": "2020-04-03",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1482
+  },
+  {
+    "date": "2020-04-10",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1522
+  },
+  {
+    "date": "2020-04-17",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1526
+  },
+  {
+    "date": "2020-04-24",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1468
+  },
+  {
+    "date": "2020-05-01",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1390
+  },
+  {
+    "date": "2020-05-08",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1435
+  },
+  {
+    "date": "2020-05-15",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1480
+  },
+  {
+    "date": "2020-05-22",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1451
+  },
+  {
+    "date": "2020-05-29",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1511
+  },
+  {
+    "date": "2020-06-05",
+    "route": "Shanghai to Rotterdam",
+    "rate": 2038
+  },
+  {
+    "date": "2020-06-12",
+    "route": "Shanghai to Rotterdam",
+    "rate": 2383
+  },
+  {
+    "date": "2020-06-19",
+    "route": "Shanghai to Rotterdam",
+    "rate": 2451
+  },
+  {
+    "date": "2020-06-26",
+    "route": "Shanghai to Rotterdam",
+    "rate": 2068
+  },
+  {
+    "date": "2020-07-03",
+    "route": "Shanghai to Rotterdam",
+    "rate": 2931
+  },
+  {
+    "date": "2020-07-10",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3179
+  },
+  {
+    "date": "2020-07-17",
+    "route": "Shanghai to Rotterdam",
+    "rate": 2788
+  },
+  {
+    "date": "2020-07-24",
+    "route": "Shanghai to Rotterdam",
+    "rate": 2660
+  },
+  {
+    "date": "2020-07-31",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3117
+  },
+  {
+    "date": "2020-08-07",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3892
+  },
+  {
+    "date": "2020-08-14",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3569
+  },
+  {
+    "date": "2020-08-21",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3875
+  },
+  {
+    "date": "2020-08-28",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3414
+  },
+  {
+    "date": "2020-09-04",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4073
+  },
+  {
+    "date": "2020-09-11",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4458
+  },
+  {
+    "date": "2020-09-18",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4491
+  },
+  {
+    "date": "2020-09-25",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4220
+  },
+  {
+    "date": "2020-10-02",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5219
+  },
+  {
+    "date": "2020-10-09",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4786
+  },
+  {
+    "date": "2020-10-16",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4914
+  },
+  {
+    "date": "2020-10-23",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5027
+  },
+  {
+    "date": "2020-10-30",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5019
+  },
+  {
+    "date": "2020-11-06",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5635
+  },
+  {
+    "date": "2020-11-13",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5684
+  },
+  {
+    "date": "2020-11-20",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5680
+  },
+  {
+    "date": "2020-11-27",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5805
+  },
+  {
+    "date": "2020-12-04",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6747
+  },
+  {
+    "date": "2020-12-11",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6256
+  },
+  {
+    "date": "2020-12-18",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6396
+  },
+  {
+    "date": "2020-12-25",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6345
+  },
+  {
+    "date": "2021-01-01",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7378
+  },
+  {
+    "date": "2021-01-08",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7353
+  },
+  {
+    "date": "2021-01-15",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7140
+  },
+  {
+    "date": "2021-01-22",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7312
+  },
+  {
+    "date": "2021-01-29",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7205
+  },
+  {
+    "date": "2021-02-05",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7848
+  },
+  {
+    "date": "2021-02-12",
+    "route": "Shanghai to Rotterdam",
+    "rate": 8103
+  },
+  {
+    "date": "2021-02-19",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7602
+  },
+  {
+    "date": "2021-02-26",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7705
+  },
+  {
+    "date": "2021-03-05",
+    "route": "Shanghai to Rotterdam",
+    "rate": 8820
+  },
+  {
+    "date": "2021-03-12",
+    "route": "Shanghai to Rotterdam",
+    "rate": 8389
+  },
+  {
+    "date": "2021-03-19",
+    "route": "Shanghai to Rotterdam",
+    "rate": 8691
+  },
+  {
+    "date": "2021-03-26",
+    "route": "Shanghai to Rotterdam",
+    "rate": 8776
+  },
+  {
+    "date": "2021-04-02",
+    "route": "Shanghai to Rotterdam",
+    "rate": 9574
+  },
+  {
+    "date": "2021-04-09",
+    "route": "Shanghai to Rotterdam",
+    "rate": 9287
+  },
+  {
+    "date": "2021-04-16",
+    "route": "Shanghai to Rotterdam",
+    "rate": 9068
+  },
+  {
+    "date": "2021-04-23",
+    "route": "Shanghai to Rotterdam",
+    "rate": 9189
+  },
+  {
+    "date": "2021-04-30",
+    "route": "Shanghai to Rotterdam",
+    "rate": 9451
+  },
+  {
+    "date": "2021-05-07",
+    "route": "Shanghai to Rotterdam",
+    "rate": 10124
+  },
+  {
+    "date": "2021-05-14",
+    "route": "Shanghai to Rotterdam",
+    "rate": 10245
+  },
+  {
+    "date": "2021-05-21",
+    "route": "Shanghai to Rotterdam",
+    "rate": 10277
+  },
+  {
+    "date": "2021-05-28",
+    "route": "Shanghai to Rotterdam",
+    "rate": 9831
+  },
+  {
+    "date": "2021-06-04",
+    "route": "Shanghai to Rotterdam",
+    "rate": 10987
+  },
+  {
+    "date": "2021-06-11",
+    "route": "Shanghai to Rotterdam",
+    "rate": 10538
+  },
+  {
+    "date": "2021-06-18",
+    "route": "Shanghai to Rotterdam",
+    "rate": 10964
+  },
+  {
+    "date": "2021-06-25",
+    "route": "Shanghai to Rotterdam",
+    "rate": 10951
+  },
+  {
+    "date": "2021-07-02",
+    "route": "Shanghai to Rotterdam",
+    "rate": 11688
+  },
+  {
+    "date": "2021-07-09",
+    "route": "Shanghai to Rotterdam",
+    "rate": 11704
+  },
+  {
+    "date": "2021-07-16",
+    "route": "Shanghai to Rotterdam",
+    "rate": 11584
+  },
+  {
+    "date": "2021-07-23",
+    "route": "Shanghai to Rotterdam",
+    "rate": 11388
+  },
+  {
+    "date": "2021-07-30",
+    "route": "Shanghai to Rotterdam",
+    "rate": 11390
+  },
+  {
+    "date": "2021-08-06",
+    "route": "Shanghai to Rotterdam",
+    "rate": 11870
+  },
+  {
+    "date": "2021-08-13",
+    "route": "Shanghai to Rotterdam",
+    "rate": 12366
+  },
+  {
+    "date": "2021-08-20",
+    "route": "Shanghai to Rotterdam",
+    "rate": 12313
+  },
+  {
+    "date": "2021-08-27",
+    "route": "Shanghai to Rotterdam",
+    "rate": 12167
+  },
+  {
+    "date": "2021-09-03",
+    "route": "Shanghai to Rotterdam",
+    "rate": 13016
+  },
+  {
+    "date": "2021-09-10",
+    "route": "Shanghai to Rotterdam",
+    "rate": 13002
+  },
+  {
+    "date": "2021-09-17",
+    "route": "Shanghai to Rotterdam",
+    "rate": 13096
+  },
+  {
+    "date": "2021-09-24",
+    "route": "Shanghai to Rotterdam",
+    "rate": 12567
+  },
+  {
+    "date": "2021-10-01",
+    "route": "Shanghai to Rotterdam",
+    "rate": 13144
+  },
+  {
+    "date": "2021-10-08",
+    "route": "Shanghai to Rotterdam",
+    "rate": 12973
+  },
+  {
+    "date": "2021-10-15",
+    "route": "Shanghai to Rotterdam",
+    "rate": 13145
+  },
+  {
+    "date": "2021-10-22",
+    "route": "Shanghai to Rotterdam",
+    "rate": 13089
+  },
+  {
+    "date": "2021-10-29",
+    "route": "Shanghai to Rotterdam",
+    "rate": 13202
+  },
+  {
+    "date": "2021-11-05",
+    "route": "Shanghai to Rotterdam",
+    "rate": 12230
+  },
+  {
+    "date": "2021-11-12",
+    "route": "Shanghai to Rotterdam",
+    "rate": 12211
+  },
+  {
+    "date": "2021-11-19",
+    "route": "Shanghai to Rotterdam",
+    "rate": 12668
+  },
+  {
+    "date": "2021-11-26",
+    "route": "Shanghai to Rotterdam",
+    "rate": 12239
+  },
+  {
+    "date": "2021-12-03",
+    "route": "Shanghai to Rotterdam",
+    "rate": 11620
+  },
+  {
+    "date": "2021-12-10",
+    "route": "Shanghai to Rotterdam",
+    "rate": 11867
+  },
+  {
+    "date": "2021-12-17",
+    "route": "Shanghai to Rotterdam",
+    "rate": 11684
+  },
+  {
+    "date": "2021-12-24",
+    "route": "Shanghai to Rotterdam",
+    "rate": 11670
+  },
+  {
+    "date": "2021-12-31",
+    "route": "Shanghai to Rotterdam",
+    "rate": 11849
+  },
+  {
+    "date": "2022-01-07",
+    "route": "Shanghai to Rotterdam",
+    "rate": 10768
+  },
+  {
+    "date": "2022-01-14",
+    "route": "Shanghai to Rotterdam",
+    "rate": 11048
+  },
+  {
+    "date": "2022-01-21",
+    "route": "Shanghai to Rotterdam",
+    "rate": 10649
+  },
+  {
+    "date": "2022-01-28",
+    "route": "Shanghai to Rotterdam",
+    "rate": 10789
+  },
+  {
+    "date": "2022-02-04",
+    "route": "Shanghai to Rotterdam",
+    "rate": 9938
+  },
+  {
+    "date": "2022-02-11",
+    "route": "Shanghai to Rotterdam",
+    "rate": 10319
+  },
+  {
+    "date": "2022-02-18",
+    "route": "Shanghai to Rotterdam",
+    "rate": 9915
+  },
+  {
+    "date": "2022-02-25",
+    "route": "Shanghai to Rotterdam",
+    "rate": 10335
+  },
+  {
+    "date": "2022-03-04",
+    "route": "Shanghai to Rotterdam",
+    "rate": 9411
+  },
+  {
+    "date": "2022-03-11",
+    "route": "Shanghai to Rotterdam",
+    "rate": 9315
+  },
+  {
+    "date": "2022-03-18",
+    "route": "Shanghai to Rotterdam",
+    "rate": 9474
+  },
+  {
+    "date": "2022-03-25",
+    "route": "Shanghai to Rotterdam",
+    "rate": 9574
+  },
+  {
+    "date": "2022-04-01",
+    "route": "Shanghai to Rotterdam",
+    "rate": 8379
+  },
+  {
+    "date": "2022-04-08",
+    "route": "Shanghai to Rotterdam",
+    "rate": 8571
+  },
+  {
+    "date": "2022-04-15",
+    "route": "Shanghai to Rotterdam",
+    "rate": 8600
+  },
+  {
+    "date": "2022-04-22",
+    "route": "Shanghai to Rotterdam",
+    "rate": 8766
+  },
+  {
+    "date": "2022-04-29",
+    "route": "Shanghai to Rotterdam",
+    "rate": 8709
+  },
+  {
+    "date": "2022-05-06",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7861
+  },
+  {
+    "date": "2022-05-13",
+    "route": "Shanghai to Rotterdam",
+    "rate": 8029
+  },
+  {
+    "date": "2022-05-20",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7631
+  },
+  {
+    "date": "2022-05-27",
+    "route": "Shanghai to Rotterdam",
+    "rate": 8066
+  },
+  {
+    "date": "2022-06-03",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7053
+  },
+  {
+    "date": "2022-06-10",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7149
+  },
+  {
+    "date": "2022-06-17",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7072
+  },
+  {
+    "date": "2022-06-24",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7308
+  },
+  {
+    "date": "2022-07-01",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6082
+  },
+  {
+    "date": "2022-07-08",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6475
+  },
+  {
+    "date": "2022-07-15",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6247
+  },
+  {
+    "date": "2022-07-22",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6176
+  },
+  {
+    "date": "2022-07-29",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6194
+  },
+  {
+    "date": "2022-08-05",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5334
+  },
+  {
+    "date": "2022-08-12",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5605
+  },
+  {
+    "date": "2022-08-19",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5662
+  },
+  {
+    "date": "2022-08-26",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5741
+  },
+  {
+    "date": "2022-09-02",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4765
+  },
+  {
+    "date": "2022-09-09",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4738
+  },
+  {
+    "date": "2022-09-16",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4729
+  },
+  {
+    "date": "2022-09-23",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4716
+  },
+  {
+    "date": "2022-09-30",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4517
+  },
+  {
+    "date": "2022-10-07",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3754
+  },
+  {
+    "date": "2022-10-14",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4224
+  },
+  {
+    "date": "2022-10-21",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3912
+  },
+  {
+    "date": "2022-10-28",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4231
+  },
+  {
+    "date": "2022-11-04",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3110
+  },
+  {
+    "date": "2022-11-11",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3444
+  },
+  {
+    "date": "2022-11-18",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3139
+  },
+  {
+    "date": "2022-11-25",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3411
+  },
+  {
+    "date": "2022-12-02",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1650
+  },
+  {
+    "date": "2022-12-09",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1710
+  },
+  {
+    "date": "2022-12-16",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1749
+  },
+  {
+    "date": "2022-12-23",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1555
+  },
+  {
+    "date": "2022-12-30",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1707
+  },
+  {
+    "date": "2023-01-06",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1725
+  },
+  {
+    "date": "2023-01-13",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1731
+  },
+  {
+    "date": "2023-01-20",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1555
+  },
+  {
+    "date": "2023-01-27",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1631
+  },
+  {
+    "date": "2023-02-03",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1594
+  },
+  {
+    "date": "2023-02-10",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1632
+  },
+  {
+    "date": "2023-02-17",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1581
+  },
+  {
+    "date": "2023-02-24",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1744
+  },
+  {
+    "date": "2023-03-03",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1709
+  },
+  {
+    "date": "2023-03-10",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1728
+  },
+  {
+    "date": "2023-03-17",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1602
+  },
+  {
+    "date": "2023-03-24",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1600
+  },
+  {
+    "date": "2023-03-31",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1612
+  },
+  {
+    "date": "2023-04-07",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1714
+  },
+  {
+    "date": "2023-04-14",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1647
+  },
+  {
+    "date": "2023-04-21",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1677
+  },
+  {
+    "date": "2023-04-28",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1635
+  },
+  {
+    "date": "2023-05-05",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1728
+  },
+  {
+    "date": "2023-05-12",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1697
+  },
+  {
+    "date": "2023-05-19",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1616
+  },
+  {
+    "date": "2023-05-26",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1611
+  },
+  {
+    "date": "2023-06-02",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1744
+  },
+  {
+    "date": "2023-06-09",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1668
+  },
+  {
+    "date": "2023-06-16",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1659
+  },
+  {
+    "date": "2023-06-23",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1601
+  },
+  {
+    "date": "2023-06-30",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1667
+  },
+  {
+    "date": "2023-07-07",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1720
+  },
+  {
+    "date": "2023-07-14",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1614
+  },
+  {
+    "date": "2023-07-21",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1749
+  },
+  {
+    "date": "2023-07-28",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1557
+  },
+  {
+    "date": "2023-08-04",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1660
+  },
+  {
+    "date": "2023-08-11",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1645
+  },
+  {
+    "date": "2023-08-18",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1740
+  },
+  {
+    "date": "2023-08-25",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1562
+  },
+  {
+    "date": "2023-09-01",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1684
+  },
+  {
+    "date": "2023-09-08",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1698
+  },
+  {
+    "date": "2023-09-15",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1739
+  },
+  {
+    "date": "2023-09-22",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1565
+  },
+  {
+    "date": "2023-09-29",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1595
+  },
+  {
+    "date": "2023-10-06",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1558
+  },
+  {
+    "date": "2023-10-13",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1695
+  },
+  {
+    "date": "2023-10-20",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1735
+  },
+  {
+    "date": "2023-10-27",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1704
+  },
+  {
+    "date": "2023-11-03",
+    "route": "Shanghai to Rotterdam",
+    "rate": 2263
+  },
+  {
+    "date": "2023-11-10",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1953
+  },
+  {
+    "date": "2023-11-17",
+    "route": "Shanghai to Rotterdam",
+    "rate": 2166
+  },
+  {
+    "date": "2023-11-24",
+    "route": "Shanghai to Rotterdam",
+    "rate": 1930
+  },
+  {
+    "date": "2023-12-01",
+    "route": "Shanghai to Rotterdam",
+    "rate": 2901
+  },
+  {
+    "date": "2023-12-08",
+    "route": "Shanghai to Rotterdam",
+    "rate": 2584
+  },
+  {
+    "date": "2023-12-15",
+    "route": "Shanghai to Rotterdam",
+    "rate": 2590
+  },
+  {
+    "date": "2023-12-22",
+    "route": "Shanghai to Rotterdam",
+    "rate": 2632
+  },
+  {
+    "date": "2023-12-29",
+    "route": "Shanghai to Rotterdam",
+    "rate": 2864
+  },
+  {
+    "date": "2024-01-05",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3436
+  },
+  {
+    "date": "2024-01-12",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3488
+  },
+  {
+    "date": "2024-01-19",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3473
+  },
+  {
+    "date": "2024-01-26",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3538
+  },
+  {
+    "date": "2024-02-02",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4228
+  },
+  {
+    "date": "2024-02-09",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3975
+  },
+  {
+    "date": "2024-02-16",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3930
+  },
+  {
+    "date": "2024-02-23",
+    "route": "Shanghai to Rotterdam",
+    "rate": 3926
+  },
+  {
+    "date": "2024-03-01",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4828
+  },
+  {
+    "date": "2024-03-08",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4533
+  },
+  {
+    "date": "2024-03-15",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4658
+  },
+  {
+    "date": "2024-03-22",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4661
+  },
+  {
+    "date": "2024-03-29",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4661
+  },
+  {
+    "date": "2024-04-05",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5157
+  },
+  {
+    "date": "2024-04-12",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5244
+  },
+  {
+    "date": "2024-04-19",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5483
+  },
+  {
+    "date": "2024-04-26",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5325
+  },
+  {
+    "date": "2024-05-03",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6057
+  },
+  {
+    "date": "2024-05-10",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5998
+  },
+  {
+    "date": "2024-05-17",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5960
+  },
+  {
+    "date": "2024-05-24",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6151
+  },
+  {
+    "date": "2024-05-31",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6086
+  },
+  {
+    "date": "2024-06-07",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6596
+  },
+  {
+    "date": "2024-06-14",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6458
+  },
+  {
+    "date": "2024-06-21",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6702
+  },
+  {
+    "date": "2024-06-28",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6509
+  },
+  {
+    "date": "2024-07-05",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7277
+  },
+  {
+    "date": "2024-07-12",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7409
+  },
+  {
+    "date": "2024-07-19",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7208
+  },
+  {
+    "date": "2024-07-26",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7110
+  },
+  {
+    "date": "2024-08-02",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7303
+  },
+  {
+    "date": "2024-08-09",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7073
+  },
+  {
+    "date": "2024-08-16",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7357
+  },
+  {
+    "date": "2024-08-23",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7237
+  },
+  {
+    "date": "2024-08-30",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7112
+  },
+  {
+    "date": "2024-09-06",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7136
+  },
+  {
+    "date": "2024-09-13",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6844
+  },
+  {
+    "date": "2024-09-20",
+    "route": "Shanghai to Rotterdam",
+    "rate": 7085
+  },
+  {
+    "date": "2024-09-27",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6917
+  },
+  {
+    "date": "2024-10-04",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6637
+  },
+  {
+    "date": "2024-10-11",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6900
+  },
+  {
+    "date": "2024-10-18",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6748
+  },
+  {
+    "date": "2024-10-25",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6680
+  },
+  {
+    "date": "2024-11-01",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6448
+  },
+  {
+    "date": "2024-11-08",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6730
+  },
+  {
+    "date": "2024-11-15",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6416
+  },
+  {
+    "date": "2024-11-22",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6432
+  },
+  {
+    "date": "2024-11-29",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6675
+  },
+  {
+    "date": "2024-12-06",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6326
+  },
+  {
+    "date": "2024-12-13",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6334
+  },
+  {
+    "date": "2024-12-20",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6264
+  },
+  {
+    "date": "2024-12-27",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6266
+  },
+  {
+    "date": "2025-01-03",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6051
+  },
+  {
+    "date": "2025-01-10",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5984
+  },
+  {
+    "date": "2025-01-17",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6019
+  },
+  {
+    "date": "2025-01-24",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6271
+  },
+  {
+    "date": "2025-01-31",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6301
+  },
+  {
+    "date": "2025-02-07",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6095
+  },
+  {
+    "date": "2025-02-14",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6058
+  },
+  {
+    "date": "2025-02-21",
+    "route": "Shanghai to Rotterdam",
+    "rate": 6097
+  },
+  {
+    "date": "2025-02-28",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5973
+  },
+  {
+    "date": "2025-03-07",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5597
+  },
+  {
+    "date": "2025-03-14",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5573
+  },
+  {
+    "date": "2025-03-21",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5546
+  },
+  {
+    "date": "2025-03-28",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5550
+  },
+  {
+    "date": "2025-04-04",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5459
+  },
+  {
+    "date": "2025-04-11",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5440
+  },
+  {
+    "date": "2025-04-18",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5568
+  },
+  {
+    "date": "2025-04-25",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5342
+  },
+  {
+    "date": "2025-05-02",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5166
+  },
+  {
+    "date": "2025-05-09",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5401
+  },
+  {
+    "date": "2025-05-16",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5205
+  },
+  {
+    "date": "2025-05-23",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5391
+  },
+  {
+    "date": "2025-05-30",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5255
+  },
+  {
+    "date": "2025-06-06",
+    "route": "Shanghai to Rotterdam",
+    "rate": 5005
+  },
+  {
+    "date": "2025-06-13",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4881
+  },
+  {
+    "date": "2025-06-20",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4823
+  },
+  {
+    "date": "2025-06-27",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4990
+  },
+  {
+    "date": "2025-07-04",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4933
+  },
+  {
+    "date": "2025-07-11",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4854
+  },
+  {
+    "date": "2025-07-18",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4970
+  },
+  {
+    "date": "2025-07-25",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4785
+  },
+  {
+    "date": "2025-08-01",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4785
+  },
+  {
+    "date": "2025-08-08",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4697
+  },
+  {
+    "date": "2025-08-15",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4920
+  },
+  {
+    "date": "2025-08-22",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4863
+  },
+  {
+    "date": "2025-08-29",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4803
+  },
+  {
+    "date": "2025-09-05",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4802
+  },
+  {
+    "date": "2025-09-12",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4659
+  },
+  {
+    "date": "2025-09-19",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4840
+  },
+  {
+    "date": "2025-09-26",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4804
+  },
+  {
+    "date": "2025-10-03",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4790
+  },
+  {
+    "date": "2025-10-10",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4632
+  },
+  {
+    "date": "2025-10-17",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4702
+  },
+  {
+    "date": "2025-10-24",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4754
+  },
+  {
+    "date": "2025-10-31",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4702
+  },
+  {
+    "date": "2025-11-07",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4785
+  },
+  {
+    "date": "2025-11-14",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4720
+  },
+  {
+    "date": "2025-11-21",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4683
+  },
+  {
+    "date": "2025-11-28",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4591
+  },
+  {
+    "date": "2025-12-05",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4549
+  },
+  {
+    "date": "2025-12-12",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4656
+  },
+  {
+    "date": "2025-12-19",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4748
+  },
+  {
+    "date": "2025-12-26",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4659
+  },
+  {
+    "date": "2026-01-02",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4720
+  },
+  {
+    "date": "2026-01-09",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4664
+  },
+  {
+    "date": "2026-01-16",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4532
+  },
+  {
+    "date": "2026-01-23",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4510
+  },
+  {
+    "date": "2026-01-30",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4606
+  },
+  {
+    "date": "2026-02-06",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4576
+  },
+  {
+    "date": "2026-02-13",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4464
+  },
+  {
+    "date": "2026-02-20",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4611
+  },
+  {
+    "date": "2026-02-27",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4475
+  },
+  {
+    "date": "2026-03-06",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4487
+  },
+  {
+    "date": "2026-03-13",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4423
+  },
+  {
+    "date": "2026-03-20",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4602
+  },
+  {
+    "date": "2026-03-27",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4583
+  },
+  {
+    "date": "2026-04-03",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4573
+  },
+  {
+    "date": "2026-04-10",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4541
+  },
+  {
+    "date": "2026-04-17",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4532
+  },
+  {
+    "date": "2026-04-24",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4448
+  },
+  {
+    "date": "2026-05-01",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4352
+  },
+  {
+    "date": "2026-05-08",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4373
+  },
+  {
+    "date": "2026-05-15",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4458
+  },
+  {
+    "date": "2026-05-22",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4416
+  },
+  {
+    "date": "2026-05-29",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4437
+  },
+  {
+    "date": "2026-06-05",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4289
+  },
+  {
+    "date": "2026-06-12",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4332
+  },
+  {
+    "date": "2026-06-19",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4418
+  },
+  {
+    "date": "2026-06-26",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4405
+  },
+  {
+    "date": "2026-07-03",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4248
+  },
+  {
+    "date": "2026-07-10",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4400
+  },
+  {
+    "date": "2026-07-17",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4279
+  },
+  {
+    "date": "2026-07-24",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4408
+  },
+  {
+    "date": "2026-07-31",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4472
+  },
+  {
+    "date": "2026-08-07",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4264
+  },
+  {
+    "date": "2026-08-14",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4394
+  },
+  {
+    "date": "2026-08-21",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4254
+  },
+  {
+    "date": "2026-08-28",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4247
+  },
+  {
+    "date": "2026-09-04",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4327
+  },
+  {
+    "date": "2026-09-11",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4328
+  },
+  {
+    "date": "2026-09-18",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4354
+  },
+  {
+    "date": "2026-09-25",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4384
+  },
+  {
+    "date": "2026-10-02",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4274
+  },
+  {
+    "date": "2026-10-09",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4171
+  },
+  {
+    "date": "2026-10-16",
+    "route": "Shanghai to Rotterdam",
+    "rate": 4123
+  }
+]

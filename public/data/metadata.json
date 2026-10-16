@@ -1,0 +1,14 @@
+{
+  "lastUpdated": "2026-10-16",
+  "dataStartDate": "2019-01-01",
+  "dataEndDate": "2026-10-16",
+  "totalTelemetryRows": 11384,
+  "totalRatesRows": 407,
+  "latency": "T-24H (VERIFIED SATELLITE TELEMETRY)",
+  "status": "OPERATIONAL_LIVE_FULL_SPECTRUM",
+  "sources": [
+    "IMF PortWatch",
+    "Drewry World Container Index",
+    "FRED BLS"
+  ]
+}
