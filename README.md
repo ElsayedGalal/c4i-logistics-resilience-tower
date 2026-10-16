@@ -1,16 +1,27 @@
-# React + Vite
+# 🌐 برج التحكم في مرونة سلاسل الإمداد العالمية (C4I Control Tower)
+### منصة استخبارات لوجستية ومحاكاة ممرات النقل السيادية البديلة لمضائق التجارة الدولية
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🎯 ملخص المشروع والهدف الاستراتيجي
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+منصة **Global Supply Chain Resilience Control Tower** هي نظام استخبارات رقمي وتنفيذي مبني وفق معايير أنظمة القيادة والسيطرة (**C4I**). صُممت المنصة لتشخيص وتحليل وإدارة صدمات سلاسل الإمداد العالمية الناتجة عن اضطرابات الملاحة البحرية في مضيق باب المندب وجنوب البحر الأحمر.
 
-## React Compiler
+بعد اندلاع الأزمة في أواخر عام 2023 وانخفاض عبور الحاويات بنسبة تتجاوز 70%، تحولت حركة الشحن العالمية قسراً نحو الالتفاف حول إفريقيا عبر طريق رأس الرجاء الصالح. تقدم المنصة برهاناً رقمياً وتشغيلياً على جدوى **الجسر البري العربي للمملكة العربية السعودية (Arabian Land Bridge)** كبديل سيادي متعدد الوسائط يدمج الملاحة البحرية بشبكات السكك الحديدية والشاحنات لتفادي نقاط الاختناق العسكرية بالكامل.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🏛️ غرف العمليات والتحليل التكتيكي (Command Modules)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```text
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│              GLOBAL SUPPLY CHAIN RESILIENCE CONTROL TOWER (C4I)                 │
+├─────────────────────────┬─────────────────────────────┬─────────────────────────┤
+│  01. CHOKEPOINTS WAR    │  02. ARABIAN LAND BRIDGE    │  03. AI PREDICTIVE      │
+│      ROOM (DIGITAL TWIN)│      (SOVEREIGN CORRIDOR)   │      SIMULATOR (WHAT-IF)│
+├─────────────────────────┼─────────────────────────────┼─────────────────────────┤
+│ • التوأم الرقمي للمضائق │ • ممر النقل متعدد الوسائط   │ • محاكاة مونت كارلو     │
+│ • فرز سفن الحاويات والنفط│ • عبور بضائع 17 يوماً فقط    │ • مخروط ثقة التضخم 95%  │
+│ • مصفوفة الارتباط العكسي│ • وفر -$1,418 بتأمين الحرب  │ • اختبار صدمة البجعة    │
+│ • شريط أحداث الأزمة     │ • خفض الانبعاثات بنسبة 35%  │ • محرك رأس المال المعرض │
+└─────────────────────────┴─────────────────────────────┴─────────────────────────┘
