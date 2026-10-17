@@ -1,17 +1,5 @@
-# build_readme.py
-import os
-
-content = """# 🌐 برج التحكم في مرونة سلاسل الإمداد العالمية (C4I Control Tower)
+# 🌐 برج التحكم في مرونة سلاسل الإمداد العالمية (C4I Control Tower)
 ### منصة استخبارات لوجستية ومحاكاة ممرات النقل السيادية البديلة لمضائق التجارة الدولية
-
-<div align="center">
-
-[![Live Demo](https://img.shields.io/badge/🔗_LIVE_DEMO-عرض_المشروع_الحي-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://c4i-logistics-command.vercel.app)
-[![GitHub Repo](https://img.shields.io/badge/📁_GITHUB-مستودع_المشروع-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/USERNAME/c4i-logistics-resilience-tower)
-[![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-00FF9D?style=for-the-badge)](LICENSE)
 
 **[ 🚀 اضغط هنا لتجربة وتشغيل المنصة الحية مباشرة عبر Vercel ](https://c4i-logistics-command.vercel.app)**
 
